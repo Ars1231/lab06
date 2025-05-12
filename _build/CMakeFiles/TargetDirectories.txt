@@ -1,0 +1,9 @@
+/home/murka2006/Mari-Mur-Meow/workspace/projects/lab06/_build/CMakeFiles/print.dir
+/home/murka2006/Mari-Mur-Meow/workspace/projects/lab06/_build/CMakeFiles/package.dir
+/home/murka2006/Mari-Mur-Meow/workspace/projects/lab06/_build/CMakeFiles/package_source.dir
+/home/murka2006/Mari-Mur-Meow/workspace/projects/lab06/_build/CMakeFiles/edit_cache.dir
+/home/murka2006/Mari-Mur-Meow/workspace/projects/lab06/_build/CMakeFiles/rebuild_cache.dir
+/home/murka2006/Mari-Mur-Meow/workspace/projects/lab06/_build/CMakeFiles/list_install_components.dir
+/home/murka2006/Mari-Mur-Meow/workspace/projects/lab06/_build/CMakeFiles/install.dir
+/home/murka2006/Mari-Mur-Meow/workspace/projects/lab06/_build/CMakeFiles/install/local.dir
+/home/murka2006/Mari-Mur-Meow/workspace/projects/lab06/_build/CMakeFiles/install/strip.dir
